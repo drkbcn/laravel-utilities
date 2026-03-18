@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^8.0",
-        "laravel/framework": "^9.2|^10.0|^11.0|^12.0",
+        "laravel/framework": "^9.2|^10.0|^11.0|^12.0|^13.0",
         "ext-zip": "*",
         "ext-curl": "*"
     },
@@ -27,6 +27,10 @@
         {
             "name": "Eric RF",
             "email": "erojas@labelgrup.com"
+        },
+        {
+            "name": "Manel Alonso",
+            "email": "malonso@labelgrup.com"
         }
     ],
     "minimum-stability": "stable",
